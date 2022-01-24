@@ -10,4 +10,4 @@ In this website employee/user can enter employee id, name and email.
 * JsonPowerDb is the Database server with Developer friendly rest API services. Easy and fast to develop database applications without using any server side programming / scripting or without installing any kind of database.
 
 #### Sources:
-* [login2explore](https://login2explore.com/jpdb/index.html)
+* [login2explore](https://login2explore.com/)
